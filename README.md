@@ -1,1 +1,1 @@
-Implementing ML Problems
+Solving ML Problems
